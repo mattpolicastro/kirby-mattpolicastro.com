@@ -1,5 +1,7 @@
 # mattpolicastro.com
 
+The old, old, old version of my personal site that I had running on Kirby way back when. This is a franken-repo because for some inscrutable reason I decided it was easier to push builds from a completely different framework (Hexo) to a `gh-pages` branch on this repo for site hosting. Mea culpa.
+
 [mattpolicastro.com](http://mattpolicastro.com) is the personal site of Matt Policastro.
 
 Go figure. 
